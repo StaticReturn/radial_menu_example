@@ -34,7 +34,3 @@ The TextStyle for the center text can be found in the data/app_theme.dart file.
 **Q**:  Why not create a package and publish it to pub.dev?
 
 **A**:  I don't want to.
-
-**A**:  Is there any type of usage license for this code?
-
-**Q**:  It's CC BY 4.0.
